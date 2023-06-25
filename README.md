@@ -1,5 +1,5 @@
 <h1>BESTful<h1>
-
+http://my-ootd.s3-website.ap-northeast-2.amazonaws.com/
 <div align="center">
 <img src= "https://github.com/wecode-bootcamp-korea/45-2nd-BESTful-frontend/blob/main/public/images/logo/1.png?raw=true">
 </div>
